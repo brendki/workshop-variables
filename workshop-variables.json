@@ -1,0 +1,18 @@
+{
+  "title": "Solidity Basic Syntax",
+  "version": "1.0.0",
+  "icon": "/test/icon.svg",
+  "chat": "https://gitter.im/ethereum/play",
+  "lessons": [{
+    "title": "Variables",
+    "lesson": "https://www.youtube.com/watch?v=n9yzr5ved_k",
+    "tool": "https://solidity.readthedocs.io/en/v0.4.24/structure-of-a-contract.html#state-variables",
+
+    "needs": [
+      "https://github.com/ffakk/workshop-solidity-events/workshop.json"
+      "https://github.com/ffakk/workshop-functions-modifiers/workshop.json"
+  ],
+  "unlocks": [
+    "https://github.com/ffakk/workshop-solidity-advanced-syntax/workshop.json"
+  ]
+}
